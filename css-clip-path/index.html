@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip Tuesday</title>
+</head>
+<style>
+    body {
+        margin: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Helvetica, Arial,  sans-serif;
+    }
+    .container {
+        min-width: 30%;
+    }
+    .container .content {
+        padding: 20px;
+        border-radius: 10px;
+        background-color: indigo;
+        clip-path: circle(10% at 90% 22%);
+        transition: all .5s ease-in-out;
+    }
+
+    .container .content:hover {
+        clip-path: circle(100%);
+        background-color: lavender;
+    }
+</style>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>Hey</h1>
+            <p>You are Awesome</p>
+        </div>
+    </div>    
+</body>
+</html>
