@@ -1,9 +1,14 @@
 ## Tip Tuesday #1
 
+#### Link
+- https://android-club-vitc.github.io/tip-tuesday/css-clip-path/
+
 #### Awesome Hover Box using vanilla css
 - performant
 - 10 liner
 - looks great 
+
+
 
 #### CSS Property
 - clip-path
