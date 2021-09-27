@@ -3,7 +3,7 @@
 #### Link
 - https://android-club-vitc.github.io/tip-tuesday/flutter-ui-tip/
 
-#### How to build a Chat Messaging UI in Flutter
+#### Less Code Using Double Dot, The Cascade Operator 
 - Dart has a single dot (.) operator. And a few minutes ago, we talked about three dots (…) .
 - So, one and three dots are covered. 
 - Do you feel like anything missing in the middle? You got it correctly. We are talking about the middle person, the double dot (..) which is also known as the cascadeoperator.
