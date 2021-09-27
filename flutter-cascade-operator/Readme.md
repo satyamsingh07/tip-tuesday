@@ -1,7 +1,7 @@
 ## Tip Tuesday #2
 
 #### Link
-- https://android-club-vitc.github.io/tip-tuesday/flutter-ui-tip/
+- https://android-club-vitc.github.io/tip-tuesday/flutter-cascade-operator/
 
 #### How to build a Chat Messaging UI in Flutter
 - Dart has a single dot (.) operator. And a few minutes ago, we talked about three dots (…) .
