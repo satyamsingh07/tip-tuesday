@@ -1,4 +1,4 @@
-## Tip Tuesday #1
+## Tip Tuesday
 
 #### Link
 - https://android-club-vitc.github.io/tip-tuesday/css-clip-path/
