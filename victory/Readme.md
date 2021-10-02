@@ -29,4 +29,4 @@ import { VictoryPie } from 'victory';
 #### Resources( To Learn More about Victory)
 
 - https://formidable.com/open-source/victory/docs
--https://swairaq.medium.com/react-native-donut-pie-chart-cdb25767b4f9
+- https://swairaq.medium.com/react-native-donut-pie-chart-cdb25767b4f9
