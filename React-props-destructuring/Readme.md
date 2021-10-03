@@ -11,15 +11,16 @@
 #### const EmojifyComponent = (props) => {
 ####  const { name, emoji } = props
 #### return (
-####   <h1>{emoji} {name} {emoji} </h1> )} 
+####   <h6>{emoji} {name} {emoji} </h6> )} 
 #### export default EmojifyComponent
 
-- Here’s the same exact React function component without destructuring:
+
+# Here’s the same exact React function component without destructuring:
 
 #### import React from "react"
 #### const EmojifyComponent = (props) => {
 ####  return (
-####    <h1>{props.emoji} {props.name} {props.emoji}</h1>)}
+####    <h6>{props.emoji} {props.name} {props.emoji}</h6>)}
 #### export default EmojifyComponent 
 ```
 ```
