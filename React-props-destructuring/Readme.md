@@ -7,12 +7,10 @@
 - Destructuring really shines in React apps, where it can greatly simplify how you write props.
 - 
 #### Let’s take a code example where we’re passing in a name and an emoji to a component that will display it-
-
-![image](https://user-images.githubusercontent.com/81974869/135746341-d14815a1-04a6-4195-9250-b3e8196a5dee.png)
+![image](https://user-images.githubusercontent.com/81974869/135746309-0f4d75a4-b1e3-496a-b488-a7ad3f78535b.png)
 
 ### Here’s the same exact React function component without destructuring:
-
-![image](https://user-images.githubusercontent.com/81974869/135746309-0f4d75a4-b1e3-496a-b488-a7ad3f78535b.png)
+![image](https://user-images.githubusercontent.com/81974869/135746341-d14815a1-04a6-4195-9250-b3e8196a5dee.png)
 ```
 ```
 - It’s not a big difference in such a small component, but in a React component with dozens of props, destructuring can be a big deal for readability.
