@@ -5,15 +5,10 @@
 - Destructuring was introduced in ES6
 - It allows us to extract multiple pieces of data from an array or object and assign them to their own variables.
 - Destructuring really shines in React apps, where it can greatly simplify how you write props.
-- Let’s take a code example where we’re passing in a name and an emoji to a component that will display it-
+- 
+#### Let’s take a code example where we’re passing in a name and an emoji to a component that will display it-
 
-#### import React from "react"
-#### const EmojifyComponent = (props) => {
-####  const { name, emoji } = props
-#### return (
-####   <h6>{emoji} {name} {emoji} </h6> )} 
-#### export default EmojifyComponent
-
+![image](https://user-images.githubusercontent.com/81974869/135746341-d14815a1-04a6-4195-9250-b3e8196a5dee.png)
 
 ### Here’s the same exact React function component without destructuring:
 
