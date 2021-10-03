@@ -17,7 +17,7 @@
 
 ### Here’s the same exact React function component without destructuring:
 
-![image](https://user-images.githubusercontent.com/81974869/135746268-0a4d74b7-8d5c-4837-ab14-30c5142f80e4.png) 
+![image](https://user-images.githubusercontent.com/81974869/135746309-0f4d75a4-b1e3-496a-b488-a7ad3f78535b.png)
 ```
 ```
 - It’s not a big difference in such a small component, but in a React component with dozens of props, destructuring can be a big deal for readability.
