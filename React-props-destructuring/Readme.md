@@ -16,7 +16,8 @@
 ```
 ```
 - It’s not a big difference in such a small component, but in a React component with dozens of props, destructuring can be a big deal for readability.
--There's one more way of destructuring where we don't have to use the word props at all. The code for the same can be found in the index.js file.
+
+##### There's one more way of destructuring where we don't have to use the word props at all. The code for the same can be found in the index.js file.
 
 #### Property
 - Props Destructuring
