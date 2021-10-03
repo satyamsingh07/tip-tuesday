@@ -17,11 +17,7 @@
 
 ### Here’s the same exact React function component without destructuring:
 
-#### import React from "react"
-#### const EmojifyComponent = (props) => {
-####  return (
-####    <h6>{props.emoji} {props.name} {props.emoji}</h6>)}
-#### export default EmojifyComponent 
+![image](https://user-images.githubusercontent.com/81974869/135746268-0a4d74b7-8d5c-4837-ab14-30c5142f80e4.png) 
 ```
 ```
 - It’s not a big difference in such a small component, but in a React component with dozens of props, destructuring can be a big deal for readability.
