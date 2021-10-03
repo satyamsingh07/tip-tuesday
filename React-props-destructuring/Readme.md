@@ -15,7 +15,7 @@
 #### export default EmojifyComponent
 
 
-# Here’s the same exact React function component without destructuring:
+### Here’s the same exact React function component without destructuring:
 
 #### import React from "react"
 #### const EmojifyComponent = (props) => {
