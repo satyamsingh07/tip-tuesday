@@ -11,6 +11,8 @@
 
 ### Here’s the same exact React function component without destructuring:
 ![image](https://user-images.githubusercontent.com/81974869/135746341-d14815a1-04a6-4195-9250-b3e8196a5dee.png)
+
+- Particularly when you’re using a prop repeatedly, you start to save a lot of typing when you can refer to {emoji} instead of {props.emoji}.
 ```
 ```
 - It’s not a big difference in such a small component, but in a React component with dozens of props, destructuring can be a big deal for readability.
