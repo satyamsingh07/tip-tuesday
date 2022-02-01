@@ -28,3 +28,5 @@ paddingTop: Platform.OS === 'android' ? StatusBar.currentHeight : 0
 ![image](https://user-images.githubusercontent.com/81974869/151993509-bf0762ac-c85c-4786-ba3b-221fe6ec998a.png)
 
 ![image](https://user-images.githubusercontent.com/81974869/151993692-caefb1c8-d765-4f34-ba84-409812c7fde7.png)
+
+![image](https://user-images.githubusercontent.com/81974869/151993887-5cc0589d-4a65-4ee2-b66b-d4f8f79f6fc5.png)
