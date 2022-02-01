@@ -24,3 +24,7 @@ paddingTop: Platform.OS === 'android' ? StatusBar.currentHeight : 0
 
 - https://www.google.com/amp/s/aboutreact.com/react-native-safeareaview/amp/
 - https://reactnative.dev/docs/safeareaview
+
+![image](https://user-images.githubusercontent.com/81974869/151993509-bf0762ac-c85c-4786-ba3b-221fe6ec998a.png)
+
+![image](https://user-images.githubusercontent.com/81974869/151993692-caefb1c8-d765-4f34-ba84-409812c7fde7.png)
